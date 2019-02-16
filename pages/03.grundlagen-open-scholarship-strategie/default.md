@@ -1,11 +1,7 @@
 ---
-title: 'Grundlagen Open Scholarship Strategie'
+title: 'Grundlagen für die Entwicklung einer Open Scholarship-Strategie'
 ---
 
----
-title: "Grundlagen für die Entwicklung einer Open Scholarship-Strategie"
-layout: page
----
 
 <meta charset="utf-8">
 
