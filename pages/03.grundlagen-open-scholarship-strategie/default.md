@@ -10,8 +10,7 @@ title: 'Grundlagen für die Entwicklung einer Open Scholarship-Strategie'
 -   Version 1.0 -- 16. Oktober 2017 - Erste Version des Dokuments.
 -   Version 1.1 -- 06. Juni 2018 - Website erstellt.
 -   Version 1.2 -- Vervollständigter erster Entwurf (30. Juli 2018)  <a href="https://doi.org/10.5281/zenodo.1323437"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1323437.svg" alt="DOI"></a>
-
--   Version 2.1 -- Vollständig überarbeitete zweite Version (31. Januar, 2019), in englischer Sprache veröffentlicht unter:  [10.31222/osf.io/b4v8p](https://doi.org/10.31222/osf.io/b4v8p)
+-   Version 2.1 -- Vollständig überarbeitete zweite Version (31. Januar, 2019), in englischer Sprache veröffentlicht unter DOI [10.31222/osf.io/b4v8p](https://doi.org/10.31222/osf.io/b4v8p), auf deutsch veröffentlicht unter DOI [10.31235/osf.io/hu9sj](https://doi.org/10.31235/osf.io/hu9sj)
 
 Beachte, dass Versionen dieses Dokuments auch in anderen Sprachen wie [Spanisch](https://github.com/Open-Scholarship-Strategy/indexed/blob/master/translations/spanish/index_es.md), [Indonesisch](https://sainsterbuka.readthedocs.io/en/latest/?fbclid=IwAR2eJ0xOMQdkbIbGt639frHFv0PdwK44HesXAsWBgVNXiXU1oZQRdn7TPrA) und natürlich [im englischen Original](https://github.com/Open-Scholarship-Strategy/site/index.md) existieren.
 
